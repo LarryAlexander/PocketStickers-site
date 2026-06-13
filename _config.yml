@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-title: PocketStickers Support
-description: Public support and privacy information for PocketStickers
+title: PocketStickers
+description: Public product information, support, and privacy for PocketStickers
+logo: /assets/pocketstickers-icon.png
 show_downloads: false

@@ -1,6 +1,17 @@
 # PocketStickers Site
 
-Public GitHub Pages site for PocketStickers support and privacy information.
+Public-facing GitHub Pages repo for PocketStickers.
+
+## Purpose
+
+This repository holds the minimal public information surface for PocketStickers:
+
+- product summary
+- support page
+- privacy policy
+- public image assets used by the site
+
+It exists so PocketStickers can expose stable public HTTPS URLs without publishing the full working app repository.
 
 ## Pages
 
@@ -8,10 +19,12 @@ Public GitHub Pages site for PocketStickers support and privacy information.
 - `support.md`
 - `privacy-policy.md`
 
+## Public URLs
+
+- Site: https://larryalexander.github.io/PocketStickers-site/
+- Support: https://larryalexander.github.io/PocketStickers-site/support.html
+- Privacy Policy: https://larryalexander.github.io/PocketStickers-site/privacy-policy.html
+
 ## Support Contact
 
 - GitHub Issues: https://github.com/LarryAlexander/PocketStickers-site/issues
-
-## Purpose
-
-This repo exists so PocketStickers can expose public HTTPS support and privacy URLs for App Store submission.
