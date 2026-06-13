@@ -1,30 +1,37 @@
-# PocketStickers Site
+# PocketStickers
 
-Public-facing GitHub Pages repo for PocketStickers.
+![PocketStickers icon](https://raw.githubusercontent.com/LarryAlexander/PocketStickers-site/main/assets/pocketstickers-icon.png)
 
-## Purpose
+PocketStickers is a simple, private sticker library for iPhone and Messages.
 
-This repository holds the minimal public information surface for PocketStickers:
+It helps you turn your own photos into reusable stickers, keep them organized, and quickly send the right reaction from Messages when you need it.
 
-- product summary
-- support page
-- privacy policy
-- public image assets used by the site
+## What You Can Do
 
-It exists so PocketStickers can expose stable public HTTPS URLs without publishing the full working app repository.
+- Create stickers from your own photos and images
+- Keep your sticker collection organized in one place
+- Reuse your favorites instead of digging through old chats or camera roll saves
+- Browse and send saved stickers from the Messages extension
 
-## Pages
+## Why PocketStickers
 
-- `index.md`
-- `support.md`
-- `privacy-policy.md`
+PocketStickers is built for people who want their sticker collection to feel personal, useful, and easy to manage.
 
-## Public URLs
+- No required account
+- No public sticker marketplace
+- No social feed
+- No cloud dependency for the core experience
 
-- Site: https://larryalexander.github.io/PocketStickers-site/
+Your stickers stay tied to your device and your workflow.
+
+## Learn More
+
+- Website: https://larryalexander.github.io/PocketStickers-site/
 - Support: https://larryalexander.github.io/PocketStickers-site/support.html
 - Privacy Policy: https://larryalexander.github.io/PocketStickers-site/privacy-policy.html
 
-## Support Contact
+## Need Help?
+
+If you need help or want to report an issue, use the public support path:
 
 - GitHub Issues: https://github.com/LarryAlexander/PocketStickers-site/issues
